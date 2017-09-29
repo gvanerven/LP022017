@@ -1,0 +1,7 @@
+Resolver o seguinte problema em python:
+
+Dado um número N, retornar a soma dos valores do intervalo de 1 até N, desde N seja a hipotenusa de algum triângulo retângulo.
+
+nˆ2 = aˆ2 + bˆ2
+
+somaHipotenusas(25) = 105
